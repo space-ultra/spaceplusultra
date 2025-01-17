@@ -20,7 +20,7 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-base
 - 🧑‍💻 **My legacy**: visual programming (Grasshopper, vvvv, Blueprints)
 - 📊 **Data Analytics**:  BigQuery, Tableau, R
 - 🌍 **Geospatial Tools**:  QGIS, Kepler.gl, Mapbox
-- 🤖 **AI Integration**:  GPT API, NLP, RAG, predictive modeling
+- 🤖 **AI Integration**:  GPT API
 
 
 ---
