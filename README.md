@@ -1,4 +1,4 @@
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
 # Hi there! I'm Tymur
 
 I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-based consultancy specializing in innovative solutions for urban development, architecture, and data-driven technologies. With over **9 years** of experience working with urban data, I focus on creating efficient and sustainable digital tools to solve complex challenges.
