@@ -33,6 +33,10 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-base
 ---
 
 ## 🌌 Why **space+ultra**?
+
+**Pushing Limits, Delivering Results** — our motto encapsulates our commitment to excellence and innovation.
+
+The name **space+ultra** reflects our vision of pushing boundaries and exploring new dimensions in urban technology and design.
 The name **space+ultra** reflects our vision of pushing boundaries and exploring new dimensions in urban technology and design.
 
 - **"Space"** symbolizes the environments we work with—urban spaces, architectural designs, and digital landscapes. It represents the core of our work: understanding and shaping spaces for better functionality and sustainability.  
@@ -42,12 +46,8 @@ Additionally, the name draws inspiration from the phrase **"non plus ultra"**, m
 
 Together, **space+ultra** embodies a forward-thinking approach to solving complex challenges and striving for excellence.
 
-
 ---
 
 ## 📫 Let's Connect:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  
 - ✉️ [Email](mailto:info@spaceplusultra.com)
-
-
-
