@@ -37,7 +37,6 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-base
 **Pushing Limits, Delivering Results** — our motto encapsulates our commitment to excellence and innovation.
 
 The name **space+ultra** reflects our vision of pushing boundaries and exploring new dimensions in urban technology and design.
-The name **space+ultra** reflects our vision of pushing boundaries and exploring new dimensions in urban technology and design.
 
 - **"Space"** symbolizes the environments we work with—urban spaces, architectural designs, and digital landscapes. It represents the core of our work: understanding and shaping spaces for better functionality and sustainability.  
 - **"Ultra"** signifies going beyond—beyond limits, expectations, and conventional solutions. It highlights our commitment to innovation, creativity, and delivering exceptional results.  
