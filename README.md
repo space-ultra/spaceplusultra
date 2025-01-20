@@ -50,3 +50,7 @@ Together, **space+ultra** embodies a forward-thinking approach to solving comple
 ## 📫 Let's Connect:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ttsch)  
 - ✉️ [Email](mailto:info@spaceplusultra.com)
+
+
+
+![s+u](https://github.com/spaceplusultra/website/blob/main/assets/tim_spu.jpg?raw=true)
