@@ -14,12 +14,12 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-base
 ---
 
 ## 🚀 Technical Skills:
-- 🌐 **Web Development**:  JavaScript (Node.js, Next.js), React, HTML/CSS, GitHub Actions, Vercel, Heroku
-- 🖥️ **Programming**:  Python, SQL
-- 🧑‍💻 **My legacy**: visual programming (Grasshopper, vvvv, Blueprints)
-- 📊 **Data Analytics**:  BigQuery, Tableau, R
+- 📊 **Data Analytics**:  SQL, BigQuery, R, Tableau
 - 🌍 **Geospatial Tools**:  QGIS, Kepler.gl, Mapbox
-- 🤖 **AI Integration**:  GPT API
+- 🤖 **AI Integration**:  GPT API, Langchain, Chroma/Pinecone
+- 🌐 **Web Development**:  JavaScript (Node.js, Next.js), React, HTML/CSS, GitHub Actions, Vercel, Heroku, Railway
+- 🖥️ **Programming**:  Python
+- 🧑‍💻 **Legacy**: visual programming (Grasshopper, vvvv, Blueprints)
 
 
 ---
