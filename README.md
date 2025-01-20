@@ -25,8 +25,9 @@ I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-base
 ---
 
 ## 💡 Recent Projects:
-- **space+ultra**: Developing innovative digital solutions tailored for urban and architectural challenges, including platforms for geospatial data visualization, workflow automation, and AI-driven insights.
-- **Custom AI Bots**: Designing and implementing intelligent virtual assistants to streamline processes, automate repetitive tasks, and enhance productivity in diverse professional environments.
+- **dat•kai**: Revolutionizing urban planning with seamless data integration and AI-powered insights.
+- **arc•dash**: Simplifying public project navigation and fostering collaboration for architects.
+- **Custom AI Agents**: Designing and implementing intelligent virtual assistants to streamline processes, automate repetitive tasks, and enhance productivity in diverse professional environments.
 
 
 ---
