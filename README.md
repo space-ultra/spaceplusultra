@@ -1,6 +1,6 @@
 # Hi there! I'm Tim
 
-I am the founder of **[space+ultra](https://spaceplusultra.com)**, a Berlin-based consultancy specializing in innovative solutions for urban development, architecture, and data-driven technologies. With over **9 years** of experience working with urban data.
+I am the founder of **[space+ultra](https://spaceplusultra.com)** — a Berlin-based software developer, consultant, and boutique agency with a strong background in urban technology. With over **9 years** of experience working with urban data.
 
 🌟 **My Focus**: I am committed to crafting innovative and sustainable digital solutions that address complex challenges with precision and a data-driven mindset.
 
