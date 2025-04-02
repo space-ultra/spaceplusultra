@@ -23,7 +23,7 @@ The name **space+ultra** reflects our vision of pushing boundaries and exploring
 - **"Space"** symbolizes the environments we work with—urban spaces, architectural designs, and digital landscapes. It represents the core of our work: understanding and shaping spaces for better functionality and sustainability.  
 - **"Ultra"** signifies going beyond—beyond limits, expectations, and conventional solutions. It highlights our commitment to innovation, creativity, and delivering exceptional results.  
 
-Additionally, the name draws inspiration from the phrase **"non plus ultra"**, meaning "nothing further beyond." Historically, it symbolized the edge of the known world and the pursuit of the ultimate. By choosing **space+ultra**, we embrace the idea of going beyond the imaginable to redefine what’s possible in urban development and technology.
+Additionally, the name draws inspiration from the phrase **"non plus ultra"**, meaning "nothing further beyond." Historically, it symbolized the edge of the known world and the pursuit of the ultimate. By choosing **space+ultra**, we embrace the idea of going beyond the imaginable to redefine what’s possible in technology.
 
 Together, **space+ultra** embodies a forward-thinking approach to solving complex challenges and striving for excellence.
 
