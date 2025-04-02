@@ -36,4 +36,4 @@ Together, **space+ultra** embodies a forward-thinking approach to solving comple
 - 📝 [em-dash](https://spaceplusultra.com/em-dash)
 
 
-![s+u](https://github.com/spaceplusultra/website/blob/main/assets/tim_spu.jpg?raw=true)
+![s+u](https://github.com/space-ultra/website/blob/main/styles/assets/tim_spu.jpg?raw=true)
