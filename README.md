@@ -11,25 +11,6 @@ I am the co-founder of **[space+ultra](https://spaceplusultra.com)** — a Berli
 - 🤖 **Artificial Intelligence**:  Creating AI agents to automate workflows, enhance collaboration, and provide predictive insights.
 - 📊 **Data Analytics**:  Proficient in working with diverse datasets, GIS analysis, and ETL workflows. Recently completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 
----
-
-## 🚀 Technical Skills:
-- 📊 **Data Analytics**:  SQL, BigQuery, R, Tableau
-- 🌍 **Geospatial Tools**:  QGIS, Kepler.gl, Mapbox
-- 🤖 **AI Integration**:  GPT API, Langchain, Chroma/Pinecone
-- 🌐 **Web Development**:  JavaScript (Node.js, Next.js), React, HTML/CSS, GitHub Actions, Vercel, Heroku, Railway
-- 🖥️ **Programming**:  Python
-- 🧑‍💻 **Legacy**: visual programming (Grasshopper, vvvv, Blueprints)
-
-
----
-
-## 💡 Recent Projects:
-- **em-dash**: Our flagship product that turns websites into intelligent assistants—engaging visitors, capturing leads, and automating workflows 24/7 with AI-powered tools.
-- **dat•kai**: Revolutionizing urban planning with seamless data integration and AI-powered insights.
-- **arc•dash**: Simplifying public project navigation and fostering collaboration for architects.
-- **Custom AI Agents**: Designing and implementing intelligent virtual assistants to streamline processes, automate repetitive tasks, and enhance productivity in diverse professional environments.
-
 
 ---
 
